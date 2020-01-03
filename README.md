@@ -1,4 +1,4 @@
-# Corporate-Risk-Management
+# MF731, Corporate Risk Management
 
 
 **Main Topics:**
